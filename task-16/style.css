@@ -1,0 +1,18 @@
+.body{
+    display: flex;
+    text-align: center;
+}
+.box img{
+    width: 250px;
+    height: 300px;
+}
+
+.section{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+.box{
+    
+    
+}

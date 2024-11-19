@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  margin-top: 20px;
+}
+.section-1 {
+  margin: auto;
+  text-align: center;
+  margin-bottom: 50px;
+  color: rgb(38, 38, 38);
+ 
+}
+.section-2 {
+    width: 80%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  
+.card {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  width: 25%;
+}

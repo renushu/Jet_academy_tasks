@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+  width: 50%;
+  margin-inline: auto;
+  margin-top: 100px;
+  display: inline-block;
+  font-family: 'Courier New', Courier, monospace;
+ 
+}
+.block {
+  
+  color: white;
+  display: inline-block;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.violen {
+  background-color: #8e44ad;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
+.black {
+  background-color: black;
+}
+.img1 {
+  width: 50px;
+
+ 
+}
+.img2 {
+  width: 100px;
+  height: 35px;
+  margin-left: 160px;
+  margin-top: -200px;
+}
+.visa{
+    margin: 15px;
+    display:block;
+
+}

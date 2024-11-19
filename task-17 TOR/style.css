@@ -1,0 +1,99 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #4c2882;
+  color: #fff;
+  text-align: center;
+}
+header {
+    width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #5a3a8c;
+}
+header a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 0 15px;
+}
+header button {
+  background-color: yellow;
+  padding: 10px;
+  border: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}
+header img {
+  width: 120px;
+  height: 40px;
+  object-fit: contain;
+  margin-bottom: 10px;
+}
+select {
+  background-color: #5a3a8c;
+  color: white;
+  border: 1px solid #5a3a8c;
+}
+.btn-download {
+  background-color: #4c2882;
+  color: white;
+  border: 1px solid white;
+}
+.section-heading h1 {
+  font-size: 80px;
+  font-weight: lighter;
+  margin-top: 50px;
+}
+.section-heading .subtitle {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+.section {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.icon-bc {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background-color: #321a57;
+}
+.icon {
+  font-size: 7em;
+}
+.download {
+  display: block;
+  margin-top: 10px;
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 8px;
+  background-color: #5a3a8c;
+  border-radius: 5px;
+}
+.signature {
+  font-weight: normal;
+  font-size: 16px;
+  text-decoration: underline;
+  color: #e2b8ff;
+  text-align: left;
+}
+.last-links {
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
+}
+.last-links a {
+  color: white;
+  text-decoration: underline;
+}

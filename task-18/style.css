@@ -1,0 +1,19 @@
+.row{
+    width: 100%;
+    text-align: center;
+    margin-inline: auto;
+    
+}
+.item{
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.col-12{
+    width: 80%;
+    height: 40px ;
+    background-color: pink;
+    border-radius: 5px;
+}

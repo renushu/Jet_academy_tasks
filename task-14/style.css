@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    width: 78%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-family: 'Lato', sans-serif;
+}
+.product{
+    border: 1px solid gray;
+    width: 40%;
+    margin-bottom: 10px;
+    margin: 10px 0;
+    padding: 20px;
+    border-radius: 3px;
+}
+.product img{
+  width: 400px;
+  height: 300px;
+  object-fit: contain;
+}
+.price{
+    margin-bottom: 15px;
+    color:#b12704;
+}
+ul{
+    background-color: #ebebeb;
+    padding: 20px;
+    margin-bottom: 10px;
+    list-style-type: none;
+}
+.buy ,.addtocard{
+    color:rgb(209, 86, 209);
+    padding: 10px 10px 10px 0;
+    font-weight: bold;
+    text-decoration: none;
+}
+.buy:hover{
+    text-decoration: dashed;
+}
+
+.back{
+    display: block;
+    font-size: 13px;
+    padding-top: 10px;
+}

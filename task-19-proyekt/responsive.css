@@ -1,0 +1,8 @@
+@media screen and (max-width:992px) {
+    header{
+        padding-inline: 3rem;
+        nav{
+            display: none
+        }
+    }
+}
