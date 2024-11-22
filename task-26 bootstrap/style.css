@@ -1,0 +1,22 @@
+.custom-slide {
+  width: 100%;
+  /* height: ; */
+}
+.first-img {
+  background-image: url("https://aircenter.az/uploads/RmDBZI805CF4.jpg");
+}
+.second-img {
+  background-image: url("https://www.azernews.az/media/2024/09/03/01hvp55ws7q1mene4zy9pg1ype.jpg");
+}
+.third-img {
+  background-image: url("https://siwi.org/wp-content/uploads/2024/10/siwiatcop.jpg");
+}
+.main-image {
+  height: 80vh;
+  background-size: cover;
+  background-position: center center;
+}
+.custom-image {
+  width: 500px;
+  height: 500px;
+}

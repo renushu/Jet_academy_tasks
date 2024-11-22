@@ -324,6 +324,9 @@ nav {
     margin-top: 8rem;
     margin-bottom: 8rem;
     gap: 30px;
+    &.flex-nowrap{
+      flex-wrap: nowrap;
+    }
   }
   .card {
     border: 1px solid #efeff0;
