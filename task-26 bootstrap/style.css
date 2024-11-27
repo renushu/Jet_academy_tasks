@@ -2,6 +2,10 @@
   width: 100%;
   /* height: ; */
 }
+.nav-bcg{
+  background-color:#f4f7f8;
+  color: var();
+}
 .first-img {
   background-image: url("https://aircenter.az/uploads/RmDBZI805CF4.jpg");
 }
@@ -9,7 +13,7 @@
   background-image: url("https://www.azernews.az/media/2024/09/03/01hvp55ws7q1mene4zy9pg1ype.jpg");
 }
 .third-img {
-  background-image: url("https://siwi.org/wp-content/uploads/2024/10/siwiatcop.jpg");
+  background-image: url("https://149357548.v2.pressablecdn.com/wp-content/uploads/2024/11/shutterstock_2528761331.jpg");
 }
 .main-image {
   height: 80vh;
@@ -20,3 +24,4 @@
   width: 500px;
   height: 500px;
 }
+
