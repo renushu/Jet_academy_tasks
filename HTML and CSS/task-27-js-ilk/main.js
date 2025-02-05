@@ -1656,6 +1656,7 @@
 //     }
 // }
 // console.log(a)
+
 // 3 ve 5 e bolunenn
 // let a=[]
 // for(let i=1 ; i<50;i++){
@@ -1665,11 +1666,3 @@
 //     }
 //     console.log(a)
 
-// her herfden sonra .!? artir
-// let txt="HELLO WORLD.!?"
-// let txt2=txt.slice(0 ,txt.lenght-3)
-// let tail= txt.slice(txt.lenght-3, txt.lenght)
-// let txt3 = txt.split("")
-// for(const item of txt3){
-
-// }
